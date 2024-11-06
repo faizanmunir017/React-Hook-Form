@@ -1,10 +1,9 @@
-import { useState } from "react";
-import LoginForm from "./LoginForm";
+import SignUpForm from "./components/SignUp/signUpForm";
 
 function App() {
   return (
     <>
-      <LoginForm />
+      <SignUpForm />
     </>
   );
 }
