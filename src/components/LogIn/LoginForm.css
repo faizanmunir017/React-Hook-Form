@@ -50,12 +50,6 @@ form button {
   transition: background-color 0.3s;
 }
 
-/* form button:disabled {
-  background-color: #aaa;
-  cursor: not-allowed;
-} */
-
-/* Hover effect for the button */
 form button:hover {
   background-color: #2980b9; /* Darker blue on hover */
 }
